@@ -1,11 +1,16 @@
 Project Overview: Sorting Algorithm Visualizer
+
 Objective:
 The Sorting Algorithm Visualizer is a web-based tool designed to help users understand and visualize various sorting algorithms. It allows users to adjust the size of the array and the speed of the visualization, making it easier to observe how each algorithm processes the data.
 
 Tech Stack:
+
 HTML: Provides the structure of the web page, including the layout of the header, section, and footer.
+
 CSS: Used for styling the visualizer, including the layout of the array and buttons, and the overall design of the page.
+
 JavaScript: Handles the logic and functionality of the application, including generating arrays, sorting them using different algorithms, and visualizing the sorting process.
+
 Key Functionalities:
 User Interface:
 
